@@ -123,7 +123,7 @@
           "title": "ВИДОС",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Отдохни, посмотри</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">НАЖМИ</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">НАЖМИ</a>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
